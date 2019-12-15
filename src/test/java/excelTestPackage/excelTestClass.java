@@ -32,5 +32,7 @@ public class excelTestClass {
 		
 		
 	}
-
+	public void meth1() {
+		System.out.println("my mthe");
+	}
 }
